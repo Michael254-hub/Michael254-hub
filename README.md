@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michael254-hub
+- 👋 Hi, I’m Michael Simiyu
 - 👀 I’m interested in building sophisticated software designs for discerning tastes
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development projects and UI/UX Design
